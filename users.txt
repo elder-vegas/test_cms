@@ -1,0 +1,8 @@
+alu.progr@yandex.ru
+123456
+
+cat@yandex.ru
+12345
+
+dog@yandex.ru
+123456
